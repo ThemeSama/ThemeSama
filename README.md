@@ -24,9 +24,9 @@ Communication tools with which you can interact with me.
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=themesama&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themesama&layout=compact&hide=Rich%20Text%20Format)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=themesama&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=omni)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=themesama.themesama)
 
 <!--
 **ThemeSama/ThemeSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
