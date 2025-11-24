@@ -3,8 +3,8 @@ I'm a Web Developer since 2008.
 
 Communication tools with which you can interact with me.
 
-[![Linkedin Badge](https://img.shields.io/badge/-themesama-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/themesama/)](https://www.linkedin.com/in/themesama/)
-[![Twitter Badge](https://img.shields.io/badge/-themesama-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/themesama/)](https://twitter.com/themesama/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/themesama/)](https://www.linkedin.com/in/themesama/)
+[![X Badge](https://img.shields.io/badge/-themesama-1DA1F2?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/themesama/)](https://x.com/themesama/)
 [![Themeforest Badge](https://img.shields.io/badge/-themesama-79B34C?style=for-the-badge&logo=envato&logoColor=white&link=https://themeforest.net/user/themesama)](https://themeforest.net/user/themesama)
 [![Gitlab Badge](https://img.shields.io/badge/-themesama-141614?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/users/themesama/groups)](https://gitlab.com/users/themesama/groups)
 [![Steam](https://img.shields.io/badge/-themesama-black?style=for-the-badge&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/themesama)](https://steamcommunity.com/id/themesama)
@@ -23,6 +23,7 @@ Communication tools with which you can interact with me.
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=007396&logo=Kubernetes&logoColor=FFFFFF&label=)
 
 ### ⚡ Frameworks and Libs I Used
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
