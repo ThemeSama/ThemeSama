@@ -27,6 +27,7 @@ Communication tools with which you can interact with me.
 
 ### ⚡ Frameworks and Libs I Used
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Express.js](https://img.shields.io/static/v1?style=for-the-badge&message=Express.js&color=f8f8f8&logo=expressjs&logoColor=61DAFB&label=)
 ![Ember.js](https://img.shields.io/static/v1?style=for-the-badge&message=Ember.js&color=E04E39&logo=Ember.js&logoColor=FFFFFF&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
